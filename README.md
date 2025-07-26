@@ -1,2 +1,2 @@
 # PyToExe
-Convert Python Scripts to standalone Executables
+macOS App that Converts Python Scripts to Executables
