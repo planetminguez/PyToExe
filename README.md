@@ -2,7 +2,7 @@
 
 # 🚀 Python2Exe v1.0 GITHUB RELEASE && Shiny Debut
 
-macOS App that Converts Python Scripts to Executables written in Swift
+macOS App that Converts Python Scripts to Executables via Drag and Drop written in Swift
 
 By yours truly:
 ### 💝 **Support Development:**
